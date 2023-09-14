@@ -1,0 +1,1 @@
+Hi! I just opened this file with Node.js
